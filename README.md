@@ -11,7 +11,6 @@ This section provides details on how to compile the library using the provided M
 The project is managed by a `Makefile` that supports the following rules:
 
 - `make`: Compiles the mandatory part and creates `libft.a`.
-- `make bonus`: Compiles the bonus linked list functions and adds them to the library.
 - `make clean`: Removes the object files (`.o`).
 - `make fclean`: Removes object files and the `libft.a` library.
 - `make re`: Performs a full re-compilation.
